@@ -1,5 +1,6 @@
 # grpc-route
- 
+The grpc middleware that forwards grpc requests 
+
 # Test
 ```
 === RUN   TestGrpcRoute
